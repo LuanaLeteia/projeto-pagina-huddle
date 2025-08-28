@@ -3,7 +3,9 @@
 Um projeto de estudo Front-end focado em desenvolver habilidades de criação de layouts responsivos e modernos utilizando HTML e CSS.
 
 
+
 🎯 Objetivo do Projeto
+
 Este projeto foi desenvolvido como parte dos meus estudos em desenvolvimento frontend, com o objetivo de praticar:
 
 - Implementação de designs responsivos
@@ -15,7 +17,9 @@ Este projeto foi desenvolvido como parte dos meus estudos em desenvolvimento fro
 - Versionamento de código com Git
 
 
+
 ✨ Funcionalidades
+
 
 - Design completamente responsivo - Adaptável para desktop, tablet e mobile
 
