@@ -1,28 +1,3 @@
-Projeto Landing Page Agencia
-Este é um projeto de landing page responsiva desenvolvida para a Agência XYZ, uma empresa fictícia de marketing digital. A página foi criada com o objetivo de demonstrar habilidades em desenvolvimento web front-end, utilizando HTML e CSS.
-
-💻 Tecnologias Utilizadas
-HTML
-CSS
-Font Awesome (ícones)
-Google Fonts (tipografia)
-🛠 Funcionalidades
-Design moderno e responsivo;
-Navegação suave entre seções;
-Efeitos de hover e animações;
-Layout adaptável para diferentes tamanhos de tela.
-
-
-
-
-
-
-
-
-
-
-
-
 📱 Página Huddle
 
 Um projeto de estudo Front-end focado em desenvolver habilidades de criação de layouts responsivos e modernos utilizando HTML e CSS.
