@@ -79,6 +79,32 @@ main {
   height: auto;  /* mantém proporção */
 }
 
+.social-icons a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border: 1px solid white;
+  border-radius: 50%;
+  transition: all 0.3s ease;
+}
+
+.social-icons a:hover {
+  background-color: #e980e7; 
+  border-color: #e980e7;
+  transform: translateY(-3px);
+}
+
+.social-icons a:active {
+  transform: scale(0.9);
+}
+
+.social-icons img {
+  width: 20px;
+  height: auto;
+}
+
 
 /* TABLET (até 1024px) */
 @media (max-width: 1024px) {
